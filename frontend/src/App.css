@@ -1,0 +1,21 @@
+/* frontend/src/App.css */
+.App {
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+.thoughts-input {
+  width: 80%;
+  padding: 10px;
+  margin: 20px 0;
+  font-size: 1.2rem;
+}
+
+button {
+  background-color: #007aff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+}
