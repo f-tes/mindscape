@@ -1,0 +1,3 @@
+- setup node 
+- test locally ui and all 
+- deploy via vercel 
